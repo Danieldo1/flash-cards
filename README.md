@@ -1,6 +1,7 @@
 
 
-# Flashcard Quiz App with Redux 
+# Flashcard Quiz App with Redux [View Live](https://main--soft-gumption-05ae3a.netlify.app/)
+
 
 
 ## Project Description
@@ -24,7 +25,7 @@ In this project, I aimed to:
 
 - **Topics Management**: Users can create, edit, and delete topics for their quizzes. Each topic has a name and a unique identifier.
 
-- **Quizzes Management**: Users can create, edit, and delete quizzes within topics. Each quiz has a name, a unique identifier, and belongs to a specific topic.
+- **Quizzes Management**: Users can create, edit, and delete quizzes within topics. Each quiz has a name, and a unique identifier, and belongs to a specific topic.
 
 - **Flashcards Management**: Users can create, edit, and delete flashcards within quizzes. Each flashcard has a question, an answer, and belongs to a specific quiz.
 
